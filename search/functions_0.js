@@ -67,8 +67,10 @@ var searchData=
   ['argus_5fsetconfigurationsmartpowersaveenabled_64',['Argus_SetConfigurationSmartPowerSaveEnabled',['../group__argus__cfg.html#gad53a4685f4843402584c556d7265cfa0',1,'argus_api.h']]],
   ['argus_5fsetmeasurementmode_65',['Argus_SetMeasurementMode',['../group__argus__cfg.html#ga7a8b1f2d5ef7af38016e4cdf32bb864a',1,'argus_api.h']]],
   ['argus_5fstartmeasurementtimer_66',['Argus_StartMeasurementTimer',['../group__argus__meas.html#gabe59a112f841d59e435510d3c17c9db1',1,'argus_api.h']]],
-  ['argus_5fstopmeasurementtimer_67',['Argus_StopMeasurementTimer',['../group__argus__meas.html#ga4c9933c83ea073d73d6108f64ea32e86',1,'argus_api.h']]],
-  ['argus_5ftriggermeasurement_68',['Argus_TriggerMeasurement',['../group__argus__meas.html#ga4c115715544c1f66cf39f1a1f649f093',1,'argus_api.h']]],
-  ['argus_5fverifyhalimplementation_69',['Argus_VerifyHALImplementation',['../group__argus__test.html#gaeaefab65deb7fdee9faeb9f713e88c6d',1,'argus_hal_test.c']]],
-  ['argus_5fxtalkcalibration_5fcli_70',['Argus_XtalkCalibration_CLI',['../group__argus__xtk__cli.html#ga4111bd3a802e007dde1ad96451ad7511',1,'argus_xtalk_cal_cli.c']]]
+  ['argus_5fstartteachinmode_67',['Argus_StartTeachInMode',['../group__argus__meas.html#gab78e29fcbd565cf4384c147ad4343684',1,'argus_api.h']]],
+  ['argus_5fstopmeasurementtimer_68',['Argus_StopMeasurementTimer',['../group__argus__meas.html#ga4c9933c83ea073d73d6108f64ea32e86',1,'argus_api.h']]],
+  ['argus_5fstopteachinmode_69',['Argus_StopTeachInMode',['../group__argus__meas.html#gad63ec7c9e10b71433d68181ef560a7c0',1,'argus_api.h']]],
+  ['argus_5ftriggermeasurement_70',['Argus_TriggerMeasurement',['../group__argus__meas.html#ga4c115715544c1f66cf39f1a1f649f093',1,'argus_api.h']]],
+  ['argus_5fverifyhalimplementation_71',['Argus_VerifyHALImplementation',['../group__argus__test.html#gaeaefab65deb7fdee9faeb9f713e88c6d',1,'argus_hal_test.c']]],
+  ['argus_5fxtalkcalibration_5fcli_72',['Argus_XtalkCalibration_CLI',['../group__argus__xtk__cli.html#ga4111bd3a802e007dde1ad96451ad7511',1,'argus_xtalk_cal_cli.c']]]
 ];

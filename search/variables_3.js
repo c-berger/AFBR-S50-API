@@ -7,10 +7,12 @@ var searchData=
   ['debug_4',['Debug',['../structargus__results__t.html#a6c4308dd05f1f19908e9dbd2bb9b1e43',1,'argus_results_t']]],
   ['debugmode_5',['DebugMode',['../structexplorer__cfg__t.html#a872fece3315d2aa8adb16be90265c134',1,'explorer_cfg_t']]],
   ['depthmax_6',['DepthMax',['../structargus__cfg__dca__t.html#ac2a96cf9c3d20c12da8d46fcb34abf50',1,'argus_cfg_dca_t']]],
-  ['depthmin_7',['DepthMin',['../structargus__cfg__dca__t.html#a6a70fa63ba929b8207ebaeb563d4882e',1,'argus_cfg_dca_t']]],
-  ['depthnom_8',['DepthNom',['../structargus__cfg__dca__t.html#a089916ee1563d6d5b1161de79a97675a',1,'argus_cfg_dca_t']]],
-  ['device_5fquery_5ftimer_5fms_9',['device_query_timer_ms',['../group__argus__xtk__cli.html#ga25bf3535fed8d54919fa35cb097592ed',1,'argus_xtalk_cal_cli.c']]],
-  ['deviceid_10',['DeviceID',['../structexplorer__t.html#a4d8b0e35c430fd35ce77b9fbf5918d84',1,'explorer_t']]],
-  ['digitalintegrationdepth_11',['DigitalIntegrationDepth',['../structargus__meas__frame__t.html#a43faca48324c90f7aecf4bfe52aa4e21',1,'argus_meas_frame_t']]],
-  ['ds_12',['dS',['../structxtalk__t.html#a7a91b69e535b934d2d05241e26c3ea0d',1,'xtalk_t']]]
+  ['depthmin_5fhighpower_7',['DepthMin_HighPower',['../structargus__cfg__dca__t.html#a0cf54b45b887f40451d8851d0faa8532',1,'argus_cfg_dca_t']]],
+  ['depthmin_5flowpower_8',['DepthMin_LowPower',['../structargus__cfg__dca__t.html#a6c7bd38c83fe15181abc26ea82fff940',1,'argus_cfg_dca_t']]],
+  ['depthnom_9',['DepthNom',['../structargus__cfg__dca__t.html#a089916ee1563d6d5b1161de79a97675a',1,'argus_cfg_dca_t']]],
+  ['device_5fquery_5ftimer_5fms_10',['device_query_timer_ms',['../group__argus__xtk__cli.html#ga25bf3535fed8d54919fa35cb097592ed',1,'argus_xtalk_cal_cli.c']]],
+  ['deviceid_11',['DeviceID',['../structexplorer__t.html#a4d8b0e35c430fd35ce77b9fbf5918d84',1,'explorer_t']]],
+  ['digitalintegrationdepth_12',['DigitalIntegrationDepth',['../structargus__meas__frame__t.html#a43faca48324c90f7aecf4bfe52aa4e21',1,'argus_meas_frame_t']]],
+  ['disablepowersaveinlowpowerstage_13',['DisablePowerSaveInLowPowerStage',['../structargus__cfg__dca__t.html#a5622d96cdb5230d51e33e5b1a2bc4c17',1,'argus_cfg_dca_t']]],
+  ['ds_14',['dS',['../structxtalk__t.html#a7a91b69e535b934d2d05241e26c3ea0d',1,'xtalk_t']]]
 ];

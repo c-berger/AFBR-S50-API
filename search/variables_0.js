@@ -6,7 +6,7 @@ var searchData=
   ['absolutedistancescopeinclusion_3',['AbsoluteDistanceScopeInclusion',['../structargus__cfg__pba__t.html#ad30dbaa88237505f52a52d309e0d61e5',1,'argus_cfg_pba_t']]],
   ['absoluteminimumdistancethreshold_4',['AbsoluteMinimumDistanceThreshold',['../structargus__cfg__pba__t.html#a28dc44b110d452983cfd6cc9e7fac60b',1,'argus_cfg_pba_t']]],
   ['absolutetreshold_5',['AbsoluteTreshold',['../structargus__cal__electrical__p2pxtalk__t.html#ad7385001a246a84a8a3e0caa1c778557',1,'argus_cal_electrical_p2pxtalk_t']]],
-  ['amplitude_6',['amplitude',['../structargus__pixel__t.html#ac6ce595baf90c1801cdd2d196afba306',1,'argus_pixel_t::Amplitude'],['../structargus__results__bin__t.html#a918392407fcf45cadb280ebe502d633d',1,'argus_results_bin_t::Amplitude']]],
+  ['amplitude_6',['Amplitude',['../structargus__pixel__t.html#ac6ce595baf90c1801cdd2d196afba306',1,'argus_pixel_t::Amplitude'],['../structargus__results__bin__t.html#a918392407fcf45cadb280ebe502d633d',1,'argus_results_bin_t::Amplitude']]],
   ['amplitudemode_7',['AmplitudeMode',['../structargus__cfg__dca__t.html#af19edb2c33ed1564b8e7513c656b3304',1,'argus_cfg_dca_t']]],
   ['amplituderaw_8',['AmplitudeRaw',['../structargus__pixel__t.html#a288c43dbc8360f242babcc74f1746c52',1,'argus_pixel_t']]],
   ['analogintegrationdepth_9',['AnalogIntegrationDepth',['../structargus__meas__frame__t.html#a97d8aff21d43fd27f5d03baaa1c6625d',1,'argus_meas_frame_t']]],

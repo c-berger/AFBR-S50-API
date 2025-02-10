@@ -39,5 +39,7 @@ var searchData=
   ['rxcmd_5fsoftwareversion_36',['RxCmd_SoftwareVersion',['../explorer__api_8c.html#a5b914a5f215f6ced9d9b6b3d9e0f2a18',1,'explorer_api.c']]],
   ['rxcmd_5fstatusreport_37',['RxCmd_StatusReport',['../sci__cmd_8c.html#ae54ca6795130f7e8099108b628df5cb0',1,'sci_cmd.c']]],
   ['rxcmd_5fsystemreset_38',['RxCmd_SystemReset',['../sci__cmd_8c.html#ae01939738bbd6d5d0a09379f788cc052',1,'sci_cmd.c']]],
-  ['rxcmd_5ftestmessage_39',['RxCmd_TestMessage',['../sci__cmd_8c.html#a871c7480533220c05cfcb6167232daa0',1,'sci_cmd.c']]]
+  ['rxcmd_5fteachinstart_39',['RxCmd_TeachInStart',['../explorer__api_8c.html#a8176577bc84de27bfefc0e1fa0568c0f',1,'explorer_api.c']]],
+  ['rxcmd_5fteachinstop_40',['RxCmd_TeachInStop',['../explorer__api_8c.html#ac43bd7dc0149c31a3c65f46e8d3cb7c3',1,'explorer_api.c']]],
+  ['rxcmd_5ftestmessage_41',['RxCmd_TestMessage',['../sci__cmd_8c.html#a871c7480533220c05cfcb6167232daa0',1,'sci_cmd.c']]]
 ];

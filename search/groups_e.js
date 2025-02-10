@@ -27,7 +27,7 @@ var searchData=
   ['self_20test_24',['HAL Self Test',['../group__argus__test.html',1,'']]],
   ['serial_20peripheral_20interface_25',['S2PI: Serial Peripheral Interface',['../group__argus__s2pi.html',1,'']]],
   ['shot_20noise_20monitor_26',['Shot Noise Monitor',['../group__argus__snm.html',1,'']]],
-  ['status_20codes_27',['status codes',['../group__argus__status.html',1,'Status Codes'],['../group__scheduler__status.html',1,'Status Codes']]],
+  ['status_20codes_27',['Status Codes',['../group__argus__status.html',1,'Status Codes'],['../group__scheduler__status.html',1,'Status Codes']]],
   ['stuffing_28',['SCI: Byte Stuffing',['../group__sci__bytestuffing.html',1,'']]],
   ['systems_20communication_20interface_29',['SCI: Systems Communication Interface',['../group__sci.html',1,'']]]
 ];
